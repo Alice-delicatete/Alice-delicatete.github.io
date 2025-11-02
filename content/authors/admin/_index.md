@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: 张一帆
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Zhang
+last_name: Yifan
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🍀
 
 # Is this the primary user of the site?
 superuser: true
@@ -37,15 +37,15 @@ profiles:
     url: 'mailto:alex.johnson@meta.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://x.com
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org
 
 interests:
   - Large Language Models
@@ -63,7 +63,7 @@ education:
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+      url: 'https://x.com'
   - area: MS Computer Science
     institution: Carnegie Mellon University
     icon: ""
@@ -169,4 +169,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Zhang Yifan is an outstanding undergraduate student majoring in Biological Sciences, having been awarded prestigious honors including the National Scholarship and the President's Honor Medal for her exceptional academic performance. Known for her meticulous attention to detail and conscientious approach to tasks, she demonstrates a profound curiosity for scientific inquiry and possesses remarkable potential in research. Her academic interests are centered on computational biology and bioinformatics, where she aspires to contribute to cutting-edge developments at the intersection of biology and data science. Outside the lab, she enjoys exploring programming projects, reading scientific literature, and capturing the beauty of nature through photography.

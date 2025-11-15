@@ -28,13 +28,13 @@ role: Undergraduate student in biological science
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Jiangsu University
-    url: https://x.com/
+    url: https://www.ujs.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'shenxiazhifan@qq.com'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com
@@ -44,14 +44,12 @@ profiles:
     url: https://www.linkedin.com
   - icon: academicons/google-scholar
     url: https://scholar.google.com
-  - icon: academicons/orcid
-    url: https://orcid.org
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Computational biology
+  - Bioinformatics
+  - Medical informatics
+  - Biostatistics
 
 education:
   - area: PhD Computer Science (AI Focus)

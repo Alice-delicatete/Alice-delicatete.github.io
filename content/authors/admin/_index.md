@@ -55,10 +55,10 @@ education:
   - area: BS Computer Science
     institution: MIT
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2023-09-01
+    date_end: 2027-06-31
     summary: |
-      GPA: 3.9/4.0
+      GPA: 3.85/4.0
 
       Minored in Mathematics. President of AI Club.
 

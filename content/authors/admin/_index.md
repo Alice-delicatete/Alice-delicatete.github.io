@@ -56,7 +56,7 @@ education:
     institution: MIT
     icon: ""
     date_start: 2023-09-01
-    date_end: 2027-06-31
+    date_end: 2027-06-30
     summary: |
       GPA: 3.85/4.0
 
